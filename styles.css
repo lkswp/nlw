@@ -18,10 +18,6 @@ header {
     height: calc(120px + 32px);
 }
 
-#teste {
-    background: linear-gradient(none)
-}
-
 header div {
     width: 120px;
     margin: auto;
